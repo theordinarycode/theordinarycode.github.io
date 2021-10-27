@@ -1,7 +1,3 @@
-layout: post
-title: "First Post"
-date: 2021-10-27 08:58:00 +07 2021
-categories: code diary
 
 Working through the Reactjs.org docs. Challenging to absorb it. In tutorial hell as well.
 
